@@ -2,10 +2,10 @@
 <body style="background-color:#980b00;">
 <h1 style="font-family:helvetica;background-color: #ffffff; margin-left: 20px; margin-right: 1000px; padding-bottom: 15px; padding-left: 50px; padding-right: 20px; padding-top: 15px; color:#980b00"><STRONG>REJECT RADIO</STRONG></h1>
 <div>
-<p align="center" style="font-family:calibri;"><font size="5" color="white">Welcome to the unofficial Reject Radio website! Here you will learn about the hosts and the (unwanted)guests that have appeared on Reject Radio.</p> 
+<p style="font-family:calibri;"><font size="5" color="white">Welcome to the unofficial Reject Radio website! Here you will learn about the hosts and the (unwanted)guests that have appeared on Reject Radio.</p> 
 <h3 style="font-family:helvetica;"><font color="white"><STRONG>HOSTS</STRONG></h3>
 <div>
-<p align="center"style="font-family:calibri;"><font size="5" color="white">Aiden "Nut Boi"</p>
+<p style="font-family:calibri;"><font size="5" color="white">Aiden "Nut Boi"</p>
 <img src="https://yt3.ggpht.com/a-/AN66SAyqnFRMMM0Td1C7mQfwlFffvJMaYn8IrKWnXg=s288-mo-c-c0xffffffff-rj-k-no">
 <p style="font-family:calibri;"><font size="4"color="white"> Aiden should have been a squirrel for Halloween, but he rapped to Gucci Gang so I guess it's oki.</p>
 <p style="font-family:calibri;"><font size="5" color="white"> DaN Nuygyunnne</p>
