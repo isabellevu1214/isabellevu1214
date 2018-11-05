@@ -11,15 +11,15 @@ RADIO</STRONG></h1>
 <p style="font-family:calibri;"><font size="4"color="white"> Aiden should have been a squirrel for Halloween, but he rapped to Gucci Gang so I guess it's oki.</p>
 </div>
 <h5 style="font-family:calibri;"><font size="5" color="white"> DaN Nuygyunnne</h5>
-<img src="C:/Users/Steve/Documents/Isabelle/reject radio website/dun.jpg"/>
+<img src="dun.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white"> Known for warm water and "Ooo.... yea." Idk anything else about him tho</p>
 <div>
 <h5 style="font-family:calibri;"><font size="5" color="white">Jhon</h5>
-<img src="C:/Users/Steve/Documents/Isabelle/reject radio website/jhon.jpg" style="width:288px;height:288px">
+<img src="jhon.jpg" style="width:288px;height:288px">
 <p style="font-family:calibri;"><font size="4" color="white"> Why is he here again</p>
 </div>
 <h5 style="font-family:calibri;"><font size="5" color="white">Joseph</h5>
-<img src="C:/Users/Steve/Documents/Isabelle/reject radio website/Inkedwilll_LI.jpg"/>
+<img src="Inkedwilll_LI.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white">I accidently sprayed sour candy in his eyes once</p>
 </div>
 <h5 style="font-family:helvetica;"><font color="white"><STRONG>Social Media</STRONG></h5>
