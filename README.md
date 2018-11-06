@@ -6,7 +6,7 @@
 <p style="font-family:calibri;"><font size="5" color="white">Aiden "Nut Boi"
 <img src="https://yt3.ggpht.com/a-/AN66SAyqnFRMMM0Td1C7mQfwlFffvJMaYn8IrKWnXg=s288-mo-c-c0xffffffff-rj-k-no">
 <p style="font-family:calibri;">Pretty decent dude who likes to sing and rap really loudly into the mic</p>
-<p style="font-family:calibri;"><font size="5" color="white"> DaN Nuygyunnne
+<p style="font-family:calibri;"><font size="5" color="white"> DaN Nuygyunnne Lithuania
 <img src="dun.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white"> Known for warm water and "Ooo.... yea." Idk anything else about him tho
 <p style="font-family:calibri;"><font size="5" color="white">Jhon
