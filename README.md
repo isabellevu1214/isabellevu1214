@@ -10,7 +10,7 @@
 <img src="dun.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white"> Advocate of Lithuania's independence that's known for warm water and "Ooo.... yea." Idk anything else about him tho
 <p style="font-family:calibri;"><font size="5" color="white">Jhon
-<img src="jhon.jpg" style="width:288px;height:288px">
+<img src="IMG_2435.JPG" style="width:288px;height:288px">
 <p style="font-family:calibri;"><font size="4" color="white"> Why is he here again
 <p style="font-family:calibri;"><font size="5" color="white">Joseph
 <img src="Inkedwilll_LI.jpg"/>
