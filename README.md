@@ -18,7 +18,6 @@
 <p style="font-family:calibri;">FAQs<br>
  "How can I become a guest on the show?"<br>
   break into John's house while they're recording<br>
-  <br>
  <p>"Why is Reject Radio a thing?"<br>
   we don't know(ask William he forced them to do it)
 <h3 style="font-family:helvetica;"><font color="white"><STRONG>Social Media</STRONG>
