@@ -15,6 +15,12 @@
 <p style="font-family:calibri;"><font size="5" color="white">Joseph
 <img src="Inkedwilll_LI.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white">I accidently sprayed sour candy in his eyes once
+<p style="font-family:calibri;">FAQs<br>
+ "How can I become a guest on the show?"<br>
+  break into John's house while they're recording<br>
+  
+ "Why is Reject Radio a thing?"<br>
+  we don't know(ask William he forced them to do it)
 <h3 style="font-family:helvetica;"><font color="white"><STRONG>Social Media</STRONG>
 <p><a href="https://www.youtube.com/watch?v=dgha9S39Y6M">Facebook</a></p>
 <p><a href="https://www.youtube.com/channel/UCbjASAQYhb1lw7buioE2yOA">Edits Channel</a></p>
