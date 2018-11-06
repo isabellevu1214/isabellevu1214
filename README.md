@@ -22,6 +22,7 @@
   we don't know(ask William he forced them to do it)
 <h3 style="font-family:helvetica;"><font color="white"><STRONG>Social Media</STRONG>
 <p><a href="https://www.youtube.com/watch?v=dgha9S39Y6M">Facebook</a></p>
+<p><a href="https://www.patreon.com/rejectradio">Patreon(don't)</a></p>
 <p><a href="https://www.youtube.com/channel/UCbjASAQYhb1lw7buioE2yOA">Edits Channel</a></p>
 <!--Editor Man Nam is making me watch weird kpop videos if youre reading this please help-->
 <p><a href="https://www.roblox.com/users/821244271/profile">Editor man's Roblox</a></p>
