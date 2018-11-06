@@ -7,13 +7,13 @@
 <img src="https://yt3.ggpht.com/a-/AN66SAyqnFRMMM0Td1C7mQfwlFffvJMaYn8IrKWnXg=s288-mo-c-c0xffffffff-rj-k-no">
 <p style="font-family:calibri;"><font size="4"color="white"> Pretty decent dude who likes to sing and rap</p>
 <p style="font-family:calibri;"><font size="5" color="white"> DaN Nuygyunnne</p>
-<img src="C:/Users/Steve/Documents/Isabelle/reject radio website/dun.jpg"/>
+<img src="dun.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white"> Known for warm water and "Ooo.... yea." Idk anything else about him tho</p>
 <p style="font-family:calibri;"><font size="5" color="white">Jhon</p>
-<img src="C:/Users/Steve/Documents/Isabelle/reject radio website/jhon.jpg" style="width:288px;height:288px">
+<img src="jhon.jpg" style="width:288px;height:288px">
 <p style="font-family:calibri;"><font size="4" color="white"> Why is he here again</p>
 <p style="font-family:calibri;"><font size="5" color="white">Joseph</p>
-<img src="C:/Users/Steve/Documents/Isabelle/reject radio website/Inkedwilll_LI.jpg"/>
+<img src="Inkedwilll_LI.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white">I accidently sprayed sour candy in his eyes once</p>
 <h3 style="font-family:helvetica;"><font color="white"><STRONG>Social Media</STRONG></h3>
 <p><a href="https://www.youtube.com/watch?v=dgha9S39Y6M">Facebook</a></p>
