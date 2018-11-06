@@ -15,6 +15,9 @@
 <p style="font-family:calibri;"><font size="5" color="white">Joseph
 <img src="Inkedwilll_LI.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white">I accidently sprayed sour candy in his eyes once
+<h3 style="font-family:helvetica;"><STRONG>TECH GUYS</STRONG>
+<p style="font-family:calibri;"> NaYuM
+<img src="IMG_2436.JPG" style="width:288px;height:288px">
 <p style="font-family:calibri;">FAQs<br>
  "How can I become a guest on the show?"<br>
   break into John's house while they're recording<br>
