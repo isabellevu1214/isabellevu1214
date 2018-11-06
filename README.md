@@ -1,6 +1,6 @@
 <html>
 <body style="background-color:#980b00;">
-<h1 style="font-family:helvetica;background-color: #ffffff; margin-left: 20px; margin-right: 1000px; padding-bottom: 15px; padding-left: 50px; padding-right: 20px; padding-top: 15px; color:#980b00"><STRONG>REJECT RADIO</STRONG></h1>
+<h1 style="font-family:helvetica;background-color: #ffffff; margin-left: 20px; margin-right: 500px; padding-bottom: 15px; padding-left: 50px; padding-right: 20px; padding-top: 15px; color:#980b00"><STRONG>REJECT RADIO</STRONG></h1>
 <p style="font-family:calibri;"><font size="5" color="white">Welcome to the unofficial Reject Radio website! Here you will learn about the bois behind the "podcast" called Reject Radio.</p> 
 <h3 style="font-family:helvetica;"><font color="white"><STRONG>HOSTS</STRONG></h3>
 <p style="font-family:calibri;"><font size="5" color="white">Aiden "Nut Boi"</p>
