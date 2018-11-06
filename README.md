@@ -5,7 +5,7 @@
 <h3 style="font-family:helvetica;"><font color="white"><STRONG>HOSTS</STRONG></h3>
 <p style="font-family:calibri;"><font size="5" color="white">Aiden "Nut Boi"</p>
 <img src="https://yt3.ggpht.com/a-/AN66SAyqnFRMMM0Td1C7mQfwlFffvJMaYn8IrKWnXg=s288-mo-c-c0xffffffff-rj-k-no">
-<p style="font-family:calibri;"><font size="4"color="white"> Pretty decent dude who likes to sing and rap</p>
+<p style="font-family:calibri;"><font size="4"color="white"> Pretty decent dude who likes to sing and rap really loudly into the mic</p>
 <p style="font-family:calibri;"><font size="5" color="white"> DaN Nuygyunnne</p>
 <img src="dun.jpg"/>
 <p style="font-family:calibri;"><font size="4" color="white"> Known for warm water and "Ooo.... yea." Idk anything else about him tho</p>
